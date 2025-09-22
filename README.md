@@ -49,7 +49,7 @@ ________________________________________________________________________________
     <img src="https://i.pinimg.com/564x/d6/aa/1e/d6aa1e735d4bbe0e52c2bcd7759f3422.jpg" alt="Additional Image" style="width: 300px; margin-left: 10px;">
 </div>  -->
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=konti-aditi&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
 
 
