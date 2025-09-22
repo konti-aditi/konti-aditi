@@ -28,26 +28,24 @@
 </div>
 
 <!-- =================== Streak + GIF Card =================== -->
-<div style="text-align: left; margin-bottom: 20px;">
-    <table cellpadding="0" cellspacing="0">
-        <tr>
-            <td valign="top">
-                <img
-                  src="https://nirzak-streak-stats.vercel.app/?user=konti-aditi&theme=radical&hide_border=true"
-                  alt="GitHub Streak Stats"
-                  width="470"
-                />
-            </td>
-            <td valign="top" width="199" style="padding-left:0px;">
-                <img
-                  src="https://i.pinimg.com/736x/8a/f8/5f/8af85fff6e4ea5f4e35294d3fef5d097.jpg"
-                  alt="Anime GIF"
-                  width="180"
-                />
-            </td>
-        </tr>
-    </table>
+<div style="text-align: left; margin-bottom: 20px; background: transparent;">
+    <div style="display: flex; align-items: flex-start; gap: 10px; background: transparent;">
+        <img
+            src="https://nirzak-streak-stats.vercel.app/?user=konti-aditi&theme=radical&hide_border=true"
+            alt="GitHub Streak Stats"
+            width="490"
+            style="display: block; border: 0; background: transparent;"
+        />
+        <img
+            src="https://i.pinimg.com/736x/8a/f8/5f/8af85fff6e4ea5f4e35294d3fef5d097.jpg"
+            alt="Anime Image"
+            width="190"
+            style="display: block; border: 10; background: transparent;"
+        />
+    </div>
 </div>
+
+
 
 <!-- =================== Footer Wave =================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=500&section=footer&align=left"
