@@ -51,10 +51,14 @@ ________________________________________________________________________________
 
 
 
+![](https://nirzak-streak-stats.vercel.app/?user=konti-aditi&theme=radical&hide_border=true&align=center)<br/>
 
 
 
-![](https://capsule-render.vercel.app/api?type=waving&height=100&width=500&section=footer&align=center)
+
+
+
+![](https://capsule-render.vercel.app/api?type=waving&height=100&width=500&section=footer&align=left)
 
 
 <!-- <h1 align="left">SKILLS</h1>
