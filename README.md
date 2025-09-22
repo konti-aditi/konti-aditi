@@ -49,16 +49,29 @@ ________________________________________________________________________________
     <img src="https://i.pinimg.com/564x/d6/aa/1e/d6aa1e735d4bbe0e52c2bcd7759f3422.jpg" alt="Additional Image" style="width: 300px; margin-left: 10px;">
 </div>  -->
 
+<div style="
+  display: flex;
+  justify-content: center;      /* center the whole block */
+  align-items: flex-start;      /* align to the top edge */
+  flex-wrap: wrap;              /* allow wrapping if screen is too narrow */
+  gap: 30px;                    /* space between card and gif */
+">
+  <!-- GitHub Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=konti-aditi&theme=radical&hide_border=true"
+       alt="GitHub Streak Stats"
+       style="max-width: 100%; height: auto;">
+
+  <!-- Anime GIF -->
+  <img src="https://media.giphy.com/media/5xaOcLDE64VMFZxzrW0/giphy.gif"
+       alt="Anime GIF"
+       style="width:200px; border-radius:10px;">
+</div>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=500&section=footer&align=left"
+     alt="footer wave">
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=konti-aditi&theme=radical&hide_border=true&align=center)<br/>
-
-
-
-
-
-
-![](https://capsule-render.vercel.app/api?type=waving&height=100&width=500&section=footer&align=left)
 
 
 <!-- <h1 align="left">SKILLS</h1>
