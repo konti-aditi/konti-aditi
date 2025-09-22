@@ -39,7 +39,7 @@ ________________________________________________________________________________
  
  <p align="LEFT" margin="50cm"> <img src="https://komarev.com/ghpvc/?username=Aditys018&label=Visitor's%20Count&color=0e75b6&style=flat" alt="Aditys018 "  height="20" length="30" /> </p> -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditys018&theme=radical&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=konti-aditi&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=konti-aditi&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=konti-aditi&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=konti-aditi&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=konti-aditi&theme=radical&utcOffset=8)
 
 <!--
 <div style="display: flex; justify-content: center; align-items: center;">
